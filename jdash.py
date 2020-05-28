@@ -1,8 +1,8 @@
 #!/bin/env python2
-# Script owner="sachin"
-# Created on date 27/10/2018
-# Modified on date 1/11/2018
-# Whats app number 8105190452 
+# Script owner="pakde"
+# Created on date 27/05/2020
+# Modified on date 29/05/2020
+# Whats app number +6283165613244 
 # if u get any bugs send to this number
 # i am studying 4th year civil
 #
@@ -102,7 +102,7 @@ else:
 
 
 logo2 = '''
-Coded by Sachin
+Coded by pakde
 
 \t   |  |-------    __     _____  
 \t   |  |       |  /  \   |       |   \033[1;39m VERSION : \033[1;32m1.4\033[1;39m
@@ -149,10 +149,10 @@ while True:
 		scanner()
 	 elif coder[0] == "about":
 		print '\033[1;39m'
-		print '\t Name   : Sachin'
-		print '\t Country: India'
-		print '\t Channel: BBSAD'
-		print '\t Link   : https://youtu.be/87GMKQq_nTs'
+		print '\t Name   : pakde'
+		print '\t Country: Indonesia'
+		print '\t Channel: Pak de'
+		print '\t Link   : https://m.youtube.com/channel/UC3vJ9t4Lg60YTVs1pteVGGQ'
 		print '\t'
 
 	 elif coder[0] == "-h":
