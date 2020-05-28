@@ -15,11 +15,11 @@ if version != up:
 	print ""
 	x = raw_input("Want to update y/n: ")
 	if x == "y":
-		os.remove("jdash.py")
-		sachin = "https://raw.githubusercontent.com/Aka-pakde/jombla/master/jdash.py"
+		os.remove("jombla.py")
+		Aka-pakde = "https://raw.githubusercontent.com/Aka-pakde/jombla/master/jdash.py"
 		update = urllib2.urlopen(sachin).read()
 		
-		jdash = open("jdash.py", "w")
+		jdash = open("jombla.py", "w")
 		jdash.write(update)
 		jdash.close()
 
